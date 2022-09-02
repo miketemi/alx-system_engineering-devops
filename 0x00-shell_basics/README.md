@@ -4,3 +4,4 @@ This script changes working directory to home dir
 Script lists long format of directory content
 Script lists hidden files
 Script lists files digit only
+Script creates new directory

@@ -4,3 +4,4 @@ Display contents of file
 What about 2
 lastlines
 firstlines
+Line #2

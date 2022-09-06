@@ -1,1 +1,1 @@
-Environment variables
+local variables, enviroment var and fxns

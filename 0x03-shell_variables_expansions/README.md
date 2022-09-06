@@ -1,7 +1,1 @@
-Create global variable
-TRUEKNOWLEDGE
-Divide and rule
-Breath and love
-Binary conversion
-combination
-Print number with two dp
+Dec > Hex
